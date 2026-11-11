@@ -35,8 +35,7 @@
 ---
 
 ### 🏆 Мои трофеи GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Strannik-dev&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Strannik-dev&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
