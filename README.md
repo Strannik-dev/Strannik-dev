@@ -45,13 +45,6 @@
 
 ---
 
-### 🏆 Трофеи GitHub
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Strannik-dev&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-*(Примечание: для трофеев выбрана тема `algolia`, так как она имеет темно-синий фон, наиболее близкий к Dark space)*
-
----
-
 ### 🚀 Мои проекты
 
 **🎓 Rosseti_2_end** — дипломный проект: веб-приложение на FastAPI.
