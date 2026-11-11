@@ -1,5 +1,5 @@
 # Привет, я Strannik-dev 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Специалист+техподдержки+в+Ozon+Tech;Python,+FastAPI,+C%2B%2B,+C%23;Windows+admin,+Linux+user;Сейчас+изучаю+Go&font=JetBrains+Mono&center=true&width=600&height=100&color=36BCF7&vCenter=true&size=22&pause=1800)](https://git.io/typing-svg)
 **Специалист технической поддержки в Ozon Tech**  
 Администрирую Windows, уверенно работаю в Linux. Изучаю разработку на Python, пробую силы в C++ и C#, начал изучать Go. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
 
@@ -41,12 +41,6 @@
 ### 💻 Языки, которые я использую
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Strannik-dev&layout=compact&theme=onedark&hide_border=true)](https://github.com/distuam/github-stats-extended)
-
----
-
-### 🏆 Мои трофеи GitHub
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Strannik-dev&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
