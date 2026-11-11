@@ -1,7 +1,7 @@
 # Привет, я Manuellm 👋
 
 **Специалист технической поддержки в Ozon Tech**  
-Изучаю разработку на Python. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
+Изучаю разработку на Python, пробую силы в C++ и C#, начал изучать Go. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
 
 ---
 
@@ -15,6 +15,16 @@
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+### 🌱 Сейчас изучаю
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+Начал изучать **Go** — интересно посмотреть на другой подход к конкурентности и организации кода после Python.
 
 ---
 
@@ -36,6 +46,7 @@
 - **Ссылка:** [Sleepmaster](https://github.com/Strannik-dev/Sleepmaster)
 
 ---
+
 ### 📫 Связаться со мной
 
 - Telegram: [@Manuellem](https://t.me/Manuellem)
