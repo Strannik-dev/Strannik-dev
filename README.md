@@ -30,7 +30,7 @@
 
 ### 💻 Языки, которые я использую
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strannik-dev&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Strannik-dev&layout=compact&theme=onedark&hide_border=true)](https://github.com/distuam/github-stats-extended)
 
 ---
 
