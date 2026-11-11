@@ -1,7 +1,7 @@
 # Привет, я Strannik-dev 👋
 
 **Специалист технической поддержки в Ozon Tech**  
-Изучаю разработку на Python, пробую силы в C++ и C#, начал изучать Go. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
+Администрирую Windows, уверенно работаю в Linux. Изучаю разработку на Python, пробую силы в C++ и C#, начал изучать Go. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
 
 ---
 
@@ -20,6 +20,16 @@
 
 ---
 
+### 🖥 Администрирование
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- **Windows:** администрирование (уровень — уверенный).
+- **Linux:** уверенный пользователь, работа с командной строкой и системными утилитами.
+
+---
+
 ### 🌱 Сейчас изучаю
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -31,6 +41,12 @@
 ### 💻 Языки, которые я использую
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Strannik-dev&layout=compact&theme=onedark&hide_border=true)](https://github.com/distuam/github-stats-extended)
+
+---
+
+### 🏆 Мои трофеи GitHub
+
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Strannik-dev&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -52,7 +68,6 @@
 - **Ссылка:** [Sleepmaster](https://github.com/Strannik-dev/Sleepmaster)
 
 ---
-
 ### 📫 Связаться со мной
 
 - Telegram: [@Manuellem](https://t.me/Manuellem)
