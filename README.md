@@ -27,5 +27,5 @@
 
 ### 📫 Связаться со мной
 
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- Email: your.email@example.com
+- Telegram: [@ваш_ник](https://t.me/Manuellem)
+- Email: nikiat906@yandex.ru
