@@ -1,4 +1,4 @@
-# Привет, я Manuellm 👋
+# Привет, я Strannik-dev 👋
 
 **Специалист технической поддержки в Ozon Tech**  
 Изучаю разработку на Python, пробую силы в C++ и C#, начал изучать Go. Делаю учебные, дипломные и pet-проекты, чтобы глубже понимать, как устроены сервисы, которые я поддерживаю, и решать реальные задачи.
@@ -25,6 +25,18 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 Начал изучать **Go** — интересно посмотреть на другой подход к конкурентности и организации кода после Python.
+
+---
+
+### 💻 Языки, которые я использую
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strannik-dev&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 Мои трофеи GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Strannik-dev&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
