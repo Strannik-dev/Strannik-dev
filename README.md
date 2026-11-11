@@ -9,17 +9,16 @@
 
 ### 🛠 Мой стек
 
-![Python](https://img.shields.io/badge/Python-00BE6C?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00A2FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-001A34?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-001A34?style=for-the-badge&logo=alembic&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-001A34?style=for-the-badge&logo=jinja&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-001A34?style=for-the-badge&logo=discord&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-001A34?style=for-the-badge&logo=aiohttp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FFA800?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00A2FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-00BE6C?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=alembic&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ---
 
 ### 🖥 Администрирование
